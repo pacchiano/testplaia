@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="referrer" content="origin">
+
+
+<title>Research | FLAIR</title>
+<meta name="description" content="FLAIR is a research group in the Department of Engineering Science at the University of Oxford, specialising in Reinforcement Learning. ">
+
+
+
+
+
+    <link rel="shortcut icon" href="/icon_new.png">
+    
+
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+    href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,700;1,100;1,300;1,400;1,700&display=swap"
+    rel="stylesheet">
+
+
+<script src="https://kit.fontawesome.com/71dca6ca6a.js" crossorigin="anonymous"></script>
+
+
+<link rel="stylesheet" href="/css/bootstrap.min.css">
+
+
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+<link rel="stylesheet" type="text/css" href="/css/animations.css">
+
+
+
+<meta property="og:title" content="Research" />
+<meta property="og:description" content="FLAIR is a research group in the Department of Engineering Science at the University of Oxford, specialising in Reinforcement Learning." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://foersterlab.com/research/" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Research"/>
+<meta name="twitter:description" content="FLAIR is a research group in the Department of Engineering Science at the University of Oxford, specialising in Reinforcement Learning."/>
+
+
+    
+
+
+    
+
+    
+    
+    
+</head>
+
+<body class="d-flex flex-column min-vh-100">
+    
+
+
+    <nav class="navbar navbar-expand-md navbar-light bg-light">
+    <div class="container-md">
+        <a href="/" class="navbar-brand">
+            
+            <img src="/flair_new.png" width=auto alt="FLAIR" style="max-width: 250px; max-height: 65px" />
+            
+            
+            
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsableMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="collapsableMenu">
+            <ul class="navbar-nav nav-pills ms-auto">
+                
+                
+                <li class="nav-item mb-2 mb-lg-0 mx-1"><a class="nav-link ps-2" href="/" title="Home">Home</a></li>
+                
+
+                
+                
+                
+                <li class="nav-item mb-2 mb-lg-0 mx-1"><a class="nav-link ps-2" href="/members/" title="Members">Members</a></li>
+                
+                
+                
+                <li class="nav-item mb-2 mb-lg-0 mx-1"><a class="nav-link active ps-2" href="/research/"
+                        title="Research">Research</a></li>
+                
+                
+                
+                <li class="nav-item mb-2 mb-lg-0 mx-1"><a class="nav-link ps-2" href="/join/" title="Join">Join</a></li>
+                
+                
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+
+    <main>
+        
+        <div class="container-md">
+        
+<div class="section">
+    <div class="content" id="tmp">
+        <h1 class="page-title">Research</h1>
+
+        
+        <input type="radio" class="btn-check" name="topicRadio" id="All" autocomplete="off" checked>
+        <label class="btn btn-outline-secondary me-2 mb-1" for="All">Show all</label>
+        <div class="btn-group mb-1 d-inline-flex flex-wrap" id="topicForm">
+        
+                <input type="radio" class="btn-check" name="topicRadio" id="Multi-Agent" autocomplete="off">
+                <label class="btn btn-outline-secondary" for="Multi-Agent">Multi-Agent</label>
+            
+                <input type="radio" class="btn-check" name="topicRadio" id="Meta-Learning" autocomplete="off">
+                <label class="btn btn-outline-secondary" for="Meta-Learning">Meta-Learning</label>
+            
+                <input type="radio" class="btn-check" name="topicRadio" id="Opponent Shaping" autocomplete="off">
+                <label class="btn btn-outline-secondary" for="Opponent Shaping">Opponent Shaping</label>
+            
+                <input type="radio" class="btn-check" name="topicRadio" id="Communication" autocomplete="off">
+                <label class="btn btn-outline-secondary" for="Communication">Communication</label>
+            
+                <input type="radio" class="btn-check" name="topicRadio" id="Environment Design" autocomplete="off">
+                <label class="btn btn-outline-secondary" for="Environment Design">Environment Design</label>
+            
+                <input type="radio" class="btn-check" name="topicRadio" id="Evolution" autocomplete="off">
+                <label class="btn btn-outline-secondary" for="Evolution">Evolution</label>
+            
+                <input type="radio" class="btn-check" name="topicRadio" id="RL Theory" autocomplete="off">
+                <label class="btn btn-outline-secondary" for="RL Theory">RL Theory</label>
+            
+                <input type="radio" class="btn-check" name="topicRadio" id="Benchmarks" autocomplete="off">
+                <label class="btn btn-outline-secondary" for="Benchmarks">Benchmarks</label>
+            
+        </div>
+        <div class="album mt-3" id="topicCards">
+            
+            
+                <div class="card border-0 m-4 slide-fade-in" data-topics="[Communication Meta-Learning]">
+    <div class="row row-cols-1 row-cols-md-2 d-flex align-items-center">
+        <div class="col col-12 col-md-4 col-xl-3">
+            
+            <a href="https://arxiv.org/abs/2211.11030"><img src="act.gif" class="paper-img" width="100%" height="100%"
+                    alt="Adversarial Cheap Talk" focusable="false" loading="lazy" /></a>
+            
+        </div>
+        <div class="col col-12 col-md-8 col-xl-9 d-flex align-items-center">
+            <div class="paper-body">
+                <a href="https://arxiv.org/abs/2211.11030">
+                    <h3 class="paper-title hover-underline-animation">Adversarial Cheap Talk</h3>
+                </a>
+                <p class="paper-authors">Chris Lu, Timon Willi, Alistair Letcher, Jakob Foerster</p>
+                <p class="paper-venue">ICML 2023</p>
+                
+                
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+            
+                <div class="card border-0 m-4 slide-fade-in" data-topics="[Communication]">
+    <div class="row row-cols-1 row-cols-md-2 d-flex align-items-center">
+        <div class="col col-12 col-md-4 col-xl-3">
+            
+            <a href="https://arxiv.org/abs/2210.14889"><img src="stego.jpg" class="paper-img" width="100%" height="100%"
+                    alt="Perfectly Secure Steganography using Minimum Entropy Coupling" focusable="false" loading="lazy" /></a>
+            
+        </div>
+        <div class="col col-12 col-md-8 col-xl-9 d-flex align-items-center">
+            <div class="paper-body">
+                <a href="https://arxiv.org/abs/2210.14889">
+                    <h3 class="paper-title hover-underline-animation">Perfectly Secure Steganography using Minimum Entropy Coupling</h3>
+                </a>
+                <p class="paper-authors">Christian Schroeder de Witt*, Samuel Sokota*, Ziko Kolter, Jakob Foerster, Martin Strohmeier</p>
+                <p class="paper-venue">ICLR 2023</p>
+                
+                
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+            
+                <div class="card border-0 m-4 slide-fade-in" data-topics="[Multi-Agent]">
+    <div class="row row-cols-1 row-cols-md-2 d-flex align-items-center">
+        <div class="col col-12 col-md-4 col-xl-3">
+            
+            <a href="https://openreview.net/forum?id=uLE3WF3-H_5"><img src="adversity.png" class="paper-img" width="100%" height="100%"
+                    alt="Adversarial Diversity for Hanabi" focusable="false" loading="lazy" /></a>
+            
+        </div>
+        <div class="col col-12 col-md-8 col-xl-9 d-flex align-items-center">
+            <div class="paper-body">
+                <a href="https://openreview.net/forum?id=uLE3WF3-H_5">
+                    <h3 class="paper-title hover-underline-animation">Adversarial Diversity for Hanabi</h3>
+                </a>
+                <p class="paper-authors">Brandon Cui*, Andrei Lupu*, Samuel Sokota, Hengyuan Hu, David J Wu, Jakob Foerster</p>
+                <p class="paper-venue">ICLR 2023</p>
+                
+                
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+            
+                <div class="card border-0 m-4 slide-fade-in" data-topics="[Multi-Agent]">
+    <div class="row row-cols-1 row-cols-md-2 d-flex align-items-center">
+        <div class="col col-12 col-md-4 col-xl-3">
+            
+            <a href="https://arxiv.org/abs/2210.12124"><img src="equiv-nets.png" class="paper-img" width="100%" height="100%"
+                    alt="Equivariant Networks for Zero-Shot Coordination" focusable="false" loading="lazy" /></a>
+            
+        </div>
+        <div class="col col-12 col-md-8 col-xl-9 d-flex align-items-center">
+            <div class="paper-body">
+                <a href="https://arxiv.org/abs/2210.12124">
+                    <h3 class="paper-title hover-underline-animation">Equivariant Networks for Zero-Shot Coordination</h3>
+                </a>
+                <p class="paper-authors">Darius Muglich, Christian Schroeder de Witt, Elise van der Pol, Jakob Foerster</p>
+                <p class="paper-venue">NeurIPS 2022</p>
+                
+                
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+            
+                <div class="card border-0 m-4 slide-fade-in" data-topics="[Meta-Learning Evolution]">
+    <div class="row row-cols-1 row-cols-md-2 d-flex align-items-center">
+        <div class="col col-12 col-md-4 col-xl-3">
+            
+            <a href="https://openreview.net/forum?id=vsQ4gufZ-Ve"><img src="disco-pol-opt.png" class="paper-img" width="100%" height="100%"
+                    alt="Discovered Policy Optimization" focusable="false" loading="lazy" /></a>
+            
+        </div>
+        <div class="col col-12 col-md-8 col-xl-9 d-flex align-items-center">
+            <div class="paper-body">
+                <a href="https://openreview.net/forum?id=vsQ4gufZ-Ve">
+                    <h3 class="paper-title hover-underline-animation">Discovered Policy Optimization</h3>
+                </a>
+                <p class="paper-authors">Chris Lu*, Jakub Grudzien Kuba*, Alistair Letcher, Luke Metz, Christian Schroeder de Witt, Jakob Foerster</p>
+                <p class="paper-venue">NeurIPS 2022</p>
+                
+                
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+            
+                <div class="card border-0 m-4 slide-fade-in" data-topics="[Environment Design]">
+    <div class="row row-cols-1 row-cols-md-2 d-flex align-items-center">
+        <div class="col col-12 col-md-4 col-xl-3">
+            
+            <a href="https://arxiv.org/abs/2207.05219"><img src="cics.png" class="paper-img" width="100%" height="100%"
+                    alt="Grounding Aleatoric Uncertainty for Unsupervised Environment Design" focusable="false" loading="lazy" /></a>
+            
+        </div>
+        <div class="col col-12 col-md-8 col-xl-9 d-flex align-items-center">
+            <div class="paper-body">
+                <a href="https://arxiv.org/abs/2207.05219">
+                    <h3 class="paper-title hover-underline-animation">Grounding Aleatoric Uncertainty for Unsupervised Environment Design</h3>
+                </a>
+                <p class="paper-authors">Minqi Jiang, Michael Dennis, Jack Parker-Holder, Andrei Lupu, Heinrich Kuttler, Edward Grefenstette, Tim Rocktaschel, Jakob Foerster</p>
+                <p class="paper-venue">NeurIPS 2022</p>
+                
+                
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+            
+                <div class="card border-0 m-4 slide-fade-in" data-topics="[Multi-Agent]">
+    <div class="row row-cols-1 row-cols-md-2 d-flex align-items-center">
+        <div class="col col-12 col-md-4 col-xl-3">
+            
+            <a href="https://arxiv.org/abs/2207.05219"><img src="long-term-inf.png" class="paper-img" width="100%" height="100%"
+                    alt="Influencing Long-Term Behavior in Multi-Agent Reinforcement Learning" focusable="false" loading="lazy" /></a>
+            
+        </div>
+        <div class="col col-12 col-md-8 col-xl-9 d-flex align-items-center">
+            <div class="paper-body">
+                <a href="https://arxiv.org/abs/2207.05219">
+                    <h3 class="paper-title hover-underline-animation">Influencing Long-Term Behavior in Multi-Agent Reinforcement Learning</h3>
+                </a>
+                <p class="paper-authors">Dong-Ki Kim, Matthew Reimer, Miao Liu, Jakob Foerster, Michael Everett, Chuangchuang Sun, Gerald Tesauro, Jonathan How</p>
+                <p class="paper-venue">NeurIPS 2022</p>
+                
+                
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+            
+                <div class="card border-0 m-4 slide-fade-in" data-topics="[Multi-Agent Benchmarks]">
+    <div class="row row-cols-1 row-cols-md-2 d-flex align-items-center">
+        <div class="col col-12 col-md-4 col-xl-3">
+            
+            <a href="https://arxiv.org/abs/2210.10125"><img src="nocturne.gif" class="paper-img" width="100%" height="100%"
+                    alt="Nocturne: a scalable driving benchmark for bringing multi-agent learning one step closer to the real world" focusable="false" loading="lazy" /></a>
+            
+        </div>
+        <div class="col col-12 col-md-8 col-xl-9 d-flex align-items-center">
+            <div class="paper-body">
+                <a href="https://arxiv.org/abs/2210.10125">
+                    <h3 class="paper-title hover-underline-animation">Nocturne: a scalable driving benchmark for bringing multi-agent learning one step closer to the real world</h3>
+                </a>
+                <p class="paper-authors">Eugene Vinitsky, Nathan Lichtlé, Xiaomeng Yang, Brandon Amos, Jakob Foerster</p>
+                <p class="paper-venue">NeurIPS Datasets and Benchmarks 2022</p>
+                
+                
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+            
+                <div class="card border-0 m-4 slide-fade-in" data-topics="[Multi-Agent]">
+    <div class="row row-cols-1 row-cols-md-2 d-flex align-items-center">
+        <div class="col col-12 col-md-4 col-xl-3">
+            
+            <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/631f99d8e860054410c239fc90d18270-Abstract-Conference.html"><img src="off-team.png" class="paper-img" width="100%" height="100%"
+                    alt="Off-Team Learning" focusable="false" loading="lazy" /></a>
+            
+        </div>
+        <div class="col col-12 col-md-8 col-xl-9 d-flex align-items-center">
+            <div class="paper-body">
+                <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/631f99d8e860054410c239fc90d18270-Abstract-Conference.html">
+                    <h3 class="paper-title hover-underline-animation">Off-Team Learning</h3>
+                </a>
+                <p class="paper-authors">Brandon Cui, Hengyuan Hu, Samuel Sokota, Andrei Lupu, Jakob Foerster</p>
+                <p class="paper-venue">NeurIPS 2022</p>
+                
+                
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+            
+                <div class="card border-0 m-4 slide-fade-in" data-topics="[Multi-Agent Opponent Shaping]">
+    <div class="row row-cols-1 row-cols-md-2 d-flex align-items-center">
+        <div class="col col-12 col-md-4 col-xl-3">
+            
+            <a href="https://arxiv.org/abs/2210.10125"><img src="pola.png" class="paper-img" width="100%" height="100%"
+                    alt="Proximal Learning with Opponent-Learning Awareness" focusable="false" loading="lazy" /></a>
+            
+        </div>
+        <div class="col col-12 col-md-8 col-xl-9 d-flex align-items-center">
+            <div class="paper-body">
+                <a href="https://arxiv.org/abs/2210.10125">
+                    <h3 class="paper-title hover-underline-animation">Proximal Learning with Opponent-Learning Awareness</h3>
+                </a>
+                <p class="paper-authors">Stephen Zhao, Chris Lu, Roger Baker Grosse, Jakob Foerster</p>
+                <p class="paper-venue">NeurIPS 2022</p>
+                
+                
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+            
+                <div class="card border-0 m-4 slide-fade-in" data-topics="[Multi-Agent]">
+    <div class="row row-cols-1 row-cols-md-2 d-flex align-items-center">
+        <div class="col col-12 col-md-4 col-xl-3">
+            
+            <a href="https://arxiv.org/abs/2207.12322"><img src="sed.png" class="paper-img" width="100%" height="100%"
+                    alt="Self-Explaining Deviations for Coordination" focusable="false" loading="lazy" /></a>
+            
+        </div>
+        <div class="col col-12 col-md-8 col-xl-9 d-flex align-items-center">
+            <div class="paper-body">
+                <a href="https://arxiv.org/abs/2207.12322">
+                    <h3 class="paper-title hover-underline-animation">Self-Explaining Deviations for Coordination</h3>
+                </a>
+                <p class="paper-authors">Hengyuan Hu, Samuel Sokota, David Wu, Anton Bakhtin, Andrei Lupu, Brandon Cui, Jakob Foerster</p>
+                <p class="paper-venue">NeurIPS 2022</p>
+                
+                
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+            
+                <div class="card border-0 m-4 slide-fade-in" data-topics="[Multi-Agent Opponent Shaping Evolution]">
+    <div class="row row-cols-1 row-cols-md-2 d-flex align-items-center">
+        <div class="col col-12 col-md-4 col-xl-3">
+            
+            <a href="https://arxiv.org/abs/2205.01447"><img src="mf-opp-shape.gif" class="paper-img" width="100%" height="100%"
+                    alt="Model-Free Opponent Shaping" focusable="false" loading="lazy" /></a>
+            
+        </div>
+        <div class="col col-12 col-md-8 col-xl-9 d-flex align-items-center">
+            <div class="paper-body">
+                <a href="https://arxiv.org/abs/2205.01447">
+                    <h3 class="paper-title hover-underline-animation">Model-Free Opponent Shaping</h3>
+                </a>
+                <p class="paper-authors">Chris Lu, Timon Willi, Christian Schroeder de Witt, Jakob Foerster</p>
+                <p class="paper-venue">ICML 2022 (Spotlight)</p>
+                
+                
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+            
+                <div class="card border-0 m-4 slide-fade-in" data-topics="[Multi-Agent Communication]">
+    <div class="row row-cols-1 row-cols-md-2 d-flex align-items-center">
+        <div class="col col-12 col-md-4 col-xl-3">
+            
+            <a href="https://openreview.net/pdf?id=FYUzzBPh_j"><img src="meme.gif" class="paper-img" width="100%" height="100%"
+                    alt="Communicating via Markov Decision Processes" focusable="false" loading="lazy" /></a>
+            
+        </div>
+        <div class="col col-12 col-md-8 col-xl-9 d-flex align-items-center">
+            <div class="paper-body">
+                <a href="https://openreview.net/pdf?id=FYUzzBPh_j">
+                    <h3 class="paper-title hover-underline-animation">Communicating via Markov Decision Processes</h3>
+                </a>
+                <p class="paper-authors">Samuel Sokota*, Christian Schroeder de Witt*, Maximilian Igl, Luisa M Zintgraf, Philip Torr, J. Zico Kolter, Shimon Whiteson, Jakob Foerster</p>
+                <p class="paper-venue">ICML 2022 (Spotlight)</p>
+                
+                
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+            
+                <div class="card border-0 m-4 slide-fade-in" data-topics="[Multi-Agent]">
+    <div class="row row-cols-1 row-cols-md-2 d-flex align-items-center">
+        <div class="col col-12 col-md-4 col-xl-3">
+            
+            <a href="https://arxiv.org/abs/2206.12765"><img src="gen-belief.png" class="paper-img" width="100%" height="100%"
+                    alt="Generalized Beliefs for Cooperative AI" focusable="false" loading="lazy" /></a>
+            
+        </div>
+        <div class="col col-12 col-md-8 col-xl-9 d-flex align-items-center">
+            <div class="paper-body">
+                <a href="https://arxiv.org/abs/2206.12765">
+                    <h3 class="paper-title hover-underline-animation">Generalized Beliefs for Cooperative AI</h3>
+                </a>
+                <p class="paper-authors">Darius Muglich, Luisa Zintgraf, Christian Schroeder de Witt, Shimon Whiteson, Jakob Foerster</p>
+                <p class="paper-venue">ICML 2022 (Spotlight)</p>
+                
+                
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+            
+                <div class="card border-0 m-4 slide-fade-in" data-topics="[RL Theory]">
+    <div class="row row-cols-1 row-cols-md-2 d-flex align-items-center">
+        <div class="col col-12 col-md-4 col-xl-3">
+            
+            <a href="https://arxiv.org/abs/2201.02373"><img src="mirror-learn.png" class="paper-img" width="100%" height="100%"
+                    alt="Mirror Learning: A Unifying Framework of Policy Optimisation" focusable="false" loading="lazy" /></a>
+            
+        </div>
+        <div class="col col-12 col-md-8 col-xl-9 d-flex align-items-center">
+            <div class="paper-body">
+                <a href="https://arxiv.org/abs/2201.02373">
+                    <h3 class="paper-title hover-underline-animation">Mirror Learning: A Unifying Framework of Policy Optimisation</h3>
+                </a>
+                <p class="paper-authors">Jakub Grudzien Kuba, Christian Schroeder de Witt, Jakob Foerster</p>
+                <p class="paper-venue">ICML 2022 (Spotlight)</p>
+                
+                
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+            
+                <div class="card border-0 m-4 slide-fade-in" data-topics="[Multi-Agent Opponent Shaping]">
+    <div class="row row-cols-1 row-cols-md-2 d-flex align-items-center">
+        <div class="col col-12 col-md-4 col-xl-3">
+            
+            <a href="https://arxiv.org/abs/2203.04098"><img src="cola.png" class="paper-img" width="100%" height="100%"
+                    alt="COLA: Consistent Learning with Opponent-Learning Awareness" focusable="false" loading="lazy" /></a>
+            
+        </div>
+        <div class="col col-12 col-md-8 col-xl-9 d-flex align-items-center">
+            <div class="paper-body">
+                <a href="https://arxiv.org/abs/2203.04098">
+                    <h3 class="paper-title hover-underline-animation">COLA: Consistent Learning with Opponent-Learning Awareness</h3>
+                </a>
+                <p class="paper-authors">Timon Willi*, Johannes Treutlein*, Alistair Letcher*, Jakob Foerster</p>
+                <p class="paper-venue">ICML 2022 (Spotlight)</p>
+                
+                
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+            
+        </div>
+    </div>
+</div>
+
+        </div>
+    </main>
+    <footer class="footer mt-auto py-3 bg-light">
+    <div class="container-md d-flex flex-row justify-content-between">
+        <span class="text-muted align-self-center">&copy FLAIR 2023. All rights reserved.</span>
+        
+            <a href="https://twitter.com/FLAIR_Ox"><i class="fa-brands fa-twitter footer-icon"></i></a>
+        
+    </div>
+</footer>
+
+    
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+    crossorigin="anonymous"></script>
+
+    
+    
+    <script src="/js/paper-filter.js"></script>
+
+</body>
+</html>

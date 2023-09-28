@@ -1,0 +1,174 @@
+:root {
+    --link: #707070;
+    --link-hover: #505050;
+    --navbar: #005ef5;
+}
+
+body {
+    /* Padding to contain footer */
+    /* padding-bottom: 70px; */
+    height: 100%
+}
+
+.paper-body {
+    float: left;
+}
+
+/* Remove annoying shadow on boostrap buttons */
+.btn-outline-secondary,
+.navbar-light .navbar-toggler {
+    box-shadow: none !important;
+    outline: 0px !important;
+}
+
+.divider {
+    margin: auto;
+    width: 80%;
+}
+
+/*
+
+    Text
+
+*/
+
+html * {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-weight: 400;
+}
+
+b,
+strong {
+    font-weight: 700;
+}
+
+h1 {
+    font-weight: 100;
+}
+
+h2,
+h3 {
+    font-weight: 300;
+}
+
+/* Used for email */
+code {
+    font-size: 16pt;
+}
+
+a {
+    color: var(--link);
+}
+
+a:hover {
+    color: var(--link-hover);
+}
+
+.page-title {
+    margin-top: 5vh;
+    margin-bottom: 2vh;
+}
+
+/* Homepage */
+.lead-para {
+color: gray;
+    font-size: x-large;
+    font-weight: 300;
+}
+
+.title {
+    font-size: 5vw;
+    font-weight: 100;
+    /* color:gray; */
+    /* background-color: rgba(0,0,0,0.06); */
+}
+
+/* Members */
+.member-role {
+}
+
+.member-name {
+    font-size: 1.5rem;
+}
+
+.member-year {
+    color: gray;
+}
+
+/* Research */
+.paper-authors {
+    font-style: italic;
+}
+
+.paper-title,
+.paper-venue {}
+
+
+/*
+
+Icons and images
+
+*/
+
+/* Navigation bar */
+
+/* Override default Boostrap navbar-light (to keep toggle icon) */
+.navbar-light .nav-item .nav-link.active,
+.navbar-light .nav-item:focus .nav-link,
+.navbar-light .nav-item:hover .nav-link {
+    color: #ffffff;
+    background-color: var(--navbar);
+}
+
+.navbar-home .nav-item .nav-link {
+    color: #ffffff;
+}
+
+.navbar-home {
+    /* color: #ffffff; */
+    background-color: transparent !important;
+}
+
+/* .active-pill,
+a.nav-link:hover {
+    color: white !important;
+} */
+
+/* .nav-toggle {
+    color: var(--link);
+    border: 1em;
+} */
+
+/* Members */
+.member-icon {
+    font-size: 1.25rem
+}
+
+
+/* Research */
+.paper-img {
+    float: left;
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    max-height: 100%;
+    opacity: 0.8;
+}
+
+.paper-img:hover {
+    opacity: 1;
+}
+
+.footer-icon {
+    font-size: 1.5rem
+}
+
+.splash-img {
+    /* opacity: 0.95; */
+    /* filter: brightness(75%); */
+    display: block;
+    width: 100%;
+}

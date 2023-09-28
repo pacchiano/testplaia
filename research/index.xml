@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on FLAIR</title>
+    <link>http://foersterlab.com/research/</link>
+    <description>Recent content in Research on FLAIR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://foersterlab.com/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adversarial Cheap Talk</title>
+      <link>http://foersterlab.com/research/act/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://foersterlab.com/research/act/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perfectly Secure Steganography using Minimum Entropy Coupling</title>
+      <link>http://foersterlab.com/research/stego/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://foersterlab.com/research/stego/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial Diversity for Hanabi</title>
+      <link>http://foersterlab.com/research/adversity/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://foersterlab.com/research/adversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equivariant Networks for Zero-Shot Coordination</title>
+      <link>http://foersterlab.com/research/equiv-nets/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://foersterlab.com/research/equiv-nets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovered Policy Optimization</title>
+      <link>http://foersterlab.com/research/disco-pol-opt/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://foersterlab.com/research/disco-pol-opt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grounding Aleatoric Uncertainty for Unsupervised Environment Design</title>
+      <link>http://foersterlab.com/research/cics/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://foersterlab.com/research/cics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influencing Long-Term Behavior in Multi-Agent Reinforcement Learning</title>
+      <link>http://foersterlab.com/research/long-term-inf/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://foersterlab.com/research/long-term-inf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nocturne: a scalable driving benchmark for bringing multi-agent learning one step closer to the real world</title>
+      <link>http://foersterlab.com/research/nocturne/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://foersterlab.com/research/nocturne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Off-Team Learning</title>
+      <link>http://foersterlab.com/research/off-team/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://foersterlab.com/research/off-team/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proximal Learning with Opponent-Learning Awareness</title>
+      <link>http://foersterlab.com/research/pola/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://foersterlab.com/research/pola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Explaining Deviations for Coordination</title>
+      <link>http://foersterlab.com/research/sed/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://foersterlab.com/research/sed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Free Opponent Shaping</title>
+      <link>http://foersterlab.com/research/mf-opp-shape/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://foersterlab.com/research/mf-opp-shape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communicating via Markov Decision Processes</title>
+      <link>http://foersterlab.com/research/meme/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://foersterlab.com/research/meme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Beliefs for Cooperative AI</title>
+      <link>http://foersterlab.com/research/gen-belief/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://foersterlab.com/research/gen-belief/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mirror Learning: A Unifying Framework of Policy Optimisation</title>
+      <link>http://foersterlab.com/research/mirror-learn/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://foersterlab.com/research/mirror-learn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COLA: Consistent Learning with Opponent-Learning Awareness</title>
+      <link>http://foersterlab.com/research/cola/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://foersterlab.com/research/cola/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
