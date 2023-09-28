@@ -2,389 +2,389 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on FLAIR</title>
-    <link>http://foersterlab.com/</link>
+    <link>http://plaia.ai/</link>
     <description>Recent content in Home on FLAIR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jun 2022 16:43:09 +0100</lastBuildDate><atom:link href="http://foersterlab.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jun 2022 16:43:09 +0100</lastBuildDate><atom:link href="http://plaia.ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Join</title>
-      <link>http://foersterlab.com/join/</link>
+      <link>http://plaia.ai/join/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/join/</guid>
+      <guid>http://plaia.ai/join/</guid>
       <description>Thank you for your interest in our lab!
-If you are wondering whether FLAIR is the right place for you, please take a look at our publications on Google Scholar and watch some of our talks on the internet and only email if there are specific follow-up questions. As scientists, we like to hear about any non-obvious insights and interesting follow-up suggestions to previous work!
+If you are wondering whether PLAIA is the right place for you, please take a look at our publications on Google Scholar and watch some of our talks on the internet and only email if there are specific follow-up questions. As scientists, we like to hear about any non-obvious insights and interesting follow-up suggestions to previous work!
 Prospective PhD Students
 If you are interested in pursuing a PhD (&amp;ldquo;DPhil&amp;rdquo;) with us, please apply to both the Engineering Department (listing Jakob Foerster as a supervisor) and the AIMS CDT.</description>
     </item>
     
     <item>
       <title>Adversarial Cheap Talk</title>
-      <link>http://foersterlab.com/research/act/</link>
+      <link>http://plaia.ai/research/act/</link>
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/research/act/</guid>
+      <guid>http://plaia.ai/research/act/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perfectly Secure Steganography using Minimum Entropy Coupling</title>
-      <link>http://foersterlab.com/research/stego/</link>
+      <link>http://plaia.ai/research/stego/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/research/stego/</guid>
+      <guid>http://plaia.ai/research/stego/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adversarial Diversity for Hanabi</title>
-      <link>http://foersterlab.com/research/adversity/</link>
+      <link>http://plaia.ai/research/adversity/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/research/adversity/</guid>
+      <guid>http://plaia.ai/research/adversity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Equivariant Networks for Zero-Shot Coordination</title>
-      <link>http://foersterlab.com/research/equiv-nets/</link>
+      <link>http://plaia.ai/research/equiv-nets/</link>
       <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/research/equiv-nets/</guid>
+      <guid>http://plaia.ai/research/equiv-nets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discovered Policy Optimization</title>
-      <link>http://foersterlab.com/research/disco-pol-opt/</link>
+      <link>http://plaia.ai/research/disco-pol-opt/</link>
       <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/research/disco-pol-opt/</guid>
+      <guid>http://plaia.ai/research/disco-pol-opt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grounding Aleatoric Uncertainty for Unsupervised Environment Design</title>
-      <link>http://foersterlab.com/research/cics/</link>
+      <link>http://plaia.ai/research/cics/</link>
       <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/research/cics/</guid>
+      <guid>http://plaia.ai/research/cics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Influencing Long-Term Behavior in Multi-Agent Reinforcement Learning</title>
-      <link>http://foersterlab.com/research/long-term-inf/</link>
+      <link>http://plaia.ai/research/long-term-inf/</link>
       <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/research/long-term-inf/</guid>
+      <guid>http://plaia.ai/research/long-term-inf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nocturne: a scalable driving benchmark for bringing multi-agent learning one step closer to the real world</title>
-      <link>http://foersterlab.com/research/nocturne/</link>
+      <link>http://plaia.ai/research/nocturne/</link>
       <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/research/nocturne/</guid>
+      <guid>http://plaia.ai/research/nocturne/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Off-Team Learning</title>
-      <link>http://foersterlab.com/research/off-team/</link>
+      <link>http://plaia.ai/research/off-team/</link>
       <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/research/off-team/</guid>
+      <guid>http://plaia.ai/research/off-team/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Proximal Learning with Opponent-Learning Awareness</title>
-      <link>http://foersterlab.com/research/pola/</link>
+      <link>http://plaia.ai/research/pola/</link>
       <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/research/pola/</guid>
+      <guid>http://plaia.ai/research/pola/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-Explaining Deviations for Coordination</title>
-      <link>http://foersterlab.com/research/sed/</link>
+      <link>http://plaia.ai/research/sed/</link>
       <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/research/sed/</guid>
+      <guid>http://plaia.ai/research/sed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model-Free Opponent Shaping</title>
-      <link>http://foersterlab.com/research/mf-opp-shape/</link>
+      <link>http://plaia.ai/research/mf-opp-shape/</link>
       <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/research/mf-opp-shape/</guid>
+      <guid>http://plaia.ai/research/mf-opp-shape/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Communicating via Markov Decision Processes</title>
-      <link>http://foersterlab.com/research/meme/</link>
+      <link>http://plaia.ai/research/meme/</link>
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/research/meme/</guid>
+      <guid>http://plaia.ai/research/meme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generalized Beliefs for Cooperative AI</title>
-      <link>http://foersterlab.com/research/gen-belief/</link>
+      <link>http://plaia.ai/research/gen-belief/</link>
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/research/gen-belief/</guid>
+      <guid>http://plaia.ai/research/gen-belief/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mirror Learning: A Unifying Framework of Policy Optimisation</title>
-      <link>http://foersterlab.com/research/mirror-learn/</link>
+      <link>http://plaia.ai/research/mirror-learn/</link>
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/research/mirror-learn/</guid>
+      <guid>http://plaia.ai/research/mirror-learn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>COLA: Consistent Learning with Opponent-Learning Awareness</title>
-      <link>http://foersterlab.com/research/cola/</link>
+      <link>http://plaia.ai/research/cola/</link>
       <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/research/cola/</guid>
+      <guid>http://plaia.ai/research/cola/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://foersterlab.com/members/akbir-khan/</link>
+      <link>http://plaia.ai/members/akbir-khan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/members/akbir-khan/</guid>
+      <guid>http://plaia.ai/members/akbir-khan/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://foersterlab.com/members/andrei-lupu/</link>
+      <link>http://plaia.ai/members/andrei-lupu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/members/andrei-lupu/</guid>
+      <guid>http://plaia.ai/members/andrei-lupu/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://foersterlab.com/members/ben-ellis/</link>
+      <link>http://plaia.ai/members/ben-ellis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/members/ben-ellis/</guid>
+      <guid>http://plaia.ai/members/ben-ellis/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://foersterlab.com/members/branton-demoss/</link>
+      <link>http://plaia.ai/members/branton-demoss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/members/branton-demoss/</guid>
+      <guid>http://plaia.ai/members/branton-demoss/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://foersterlab.com/members/chris-lu/</link>
+      <link>http://plaia.ai/members/chris-lu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/members/chris-lu/</guid>
+      <guid>http://plaia.ai/members/chris-lu/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://foersterlab.com/members/christian-schroeder/</link>
+      <link>http://plaia.ai/members/christian-schroeder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/members/christian-schroeder/</guid>
+      <guid>http://plaia.ai/members/christian-schroeder/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://foersterlab.com/members/darius-muglich/</link>
+      <link>http://plaia.ai/members/darius-muglich/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/members/darius-muglich/</guid>
+      <guid>http://plaia.ai/members/darius-muglich/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://foersterlab.com/members/jack-parkerholder/</link>
+      <link>http://plaia.ai/members/jack-parkerholder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/members/jack-parkerholder/</guid>
+      <guid>http://plaia.ai/members/jack-parkerholder/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://foersterlab.com/members/jakob-foerster/</link>
+      <link>http://plaia.ai/members/jakob-foerster/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/members/jakob-foerster/</guid>
+      <guid>http://plaia.ai/members/jakob-foerster/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://foersterlab.com/members/jakub-kuba/</link>
+      <link>http://plaia.ai/members/jakub-kuba/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/members/jakub-kuba/</guid>
+      <guid>http://plaia.ai/members/jakub-kuba/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://foersterlab.com/members/jia-wan/</link>
+      <link>http://plaia.ai/members/jia-wan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/members/jia-wan/</guid>
+      <guid>http://plaia.ai/members/jia-wan/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://foersterlab.com/members/kang-li/</link>
+      <link>http://plaia.ai/members/kang-li/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/members/kang-li/</guid>
+      <guid>http://plaia.ai/members/kang-li/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://foersterlab.com/members/luke-metz/</link>
+      <link>http://plaia.ai/members/luke-metz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/members/luke-metz/</guid>
+      <guid>http://plaia.ai/members/luke-metz/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://foersterlab.com/members/matthew-jackson/</link>
+      <link>http://plaia.ai/members/matthew-jackson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/members/matthew-jackson/</guid>
+      <guid>http://plaia.ai/members/matthew-jackson/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://foersterlab.com/members/matthias-hericks/</link>
+      <link>http://plaia.ai/members/matthias-hericks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/members/matthias-hericks/</guid>
+      <guid>http://plaia.ai/members/matthias-hericks/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://foersterlab.com/members/minqi-jiang/</link>
+      <link>http://plaia.ai/members/minqi-jiang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/members/minqi-jiang/</guid>
+      <guid>http://plaia.ai/members/minqi-jiang/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://foersterlab.com/members/noah-sarfati/</link>
+      <link>http://plaia.ai/members/noah-sarfati/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/members/noah-sarfati/</guid>
+      <guid>http://plaia.ai/members/noah-sarfati/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://foersterlab.com/members/ola-kalisz/</link>
+      <link>http://plaia.ai/members/ola-kalisz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/members/ola-kalisz/</guid>
+      <guid>http://plaia.ai/members/ola-kalisz/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://foersterlab.com/members/qizhen-zhang/</link>
+      <link>http://plaia.ai/members/qizhen-zhang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/members/qizhen-zhang/</guid>
+      <guid>http://plaia.ai/members/qizhen-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://foersterlab.com/members/samuel-sokota/</link>
+      <link>http://plaia.ai/members/samuel-sokota/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/members/samuel-sokota/</guid>
+      <guid>http://plaia.ai/members/samuel-sokota/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://foersterlab.com/members/silvia-sapora/</link>
+      <link>http://plaia.ai/members/silvia-sapora/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/members/silvia-sapora/</guid>
+      <guid>http://plaia.ai/members/silvia-sapora/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://foersterlab.com/members/stephen-zhao/</link>
+      <link>http://plaia.ai/members/stephen-zhao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/members/stephen-zhao/</guid>
+      <guid>http://plaia.ai/members/stephen-zhao/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://foersterlab.com/members/tim-franzmeyer/</link>
+      <link>http://plaia.ai/members/tim-franzmeyer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/members/tim-franzmeyer/</guid>
+      <guid>http://plaia.ai/members/tim-franzmeyer/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://foersterlab.com/members/timon-willi/</link>
+      <link>http://plaia.ai/members/timon-willi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/members/timon-willi/</guid>
+      <guid>http://plaia.ai/members/timon-willi/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://foersterlab.com/members/usman-anwar/</link>
+      <link>http://plaia.ai/members/usman-anwar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://foersterlab.com/members/usman-anwar/</guid>
+      <guid>http://plaia.ai/members/usman-anwar/</guid>
       <description></description>
     </item>
     
