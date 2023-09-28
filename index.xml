@@ -20,146 +20,29 @@ If you are interested in pursuing a PhD (&amp;ldquo;DPhil&amp;rdquo;) with us, p
     </item>
     
     <item>
-      <title>Adversarial Cheap Talk</title>
-      <link>http://plaia.ai/research/act/</link>
-      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <title>A Unified Model and Dimension for Interactive Estimation</title>
+      <link>http://plaia.ai/research/dissimilarity/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://plaia.ai/research/act/</guid>
+      <guid>http://plaia.ai/research/dissimilarity/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Perfectly Secure Steganography using Minimum Entropy Coupling</title>
-      <link>http://plaia.ai/research/stego/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <title>Anytime Model Selection in Linear Bandits</title>
+      <link>http://plaia.ai/research/modsellog/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://plaia.ai/research/stego/</guid>
+      <guid>http://plaia.ai/research/modsellog/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Adversarial Diversity for Hanabi</title>
-      <link>http://plaia.ai/research/adversity/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <title>Experiment Planning with Function Approximation</title>
+      <link>http://plaia.ai/research/explan/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://plaia.ai/research/adversity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Equivariant Networks for Zero-Shot Coordination</title>
-      <link>http://plaia.ai/research/equiv-nets/</link>
-      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://plaia.ai/research/equiv-nets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discovered Policy Optimization</title>
-      <link>http://plaia.ai/research/disco-pol-opt/</link>
-      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://plaia.ai/research/disco-pol-opt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grounding Aleatoric Uncertainty for Unsupervised Environment Design</title>
-      <link>http://plaia.ai/research/cics/</link>
-      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://plaia.ai/research/cics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Influencing Long-Term Behavior in Multi-Agent Reinforcement Learning</title>
-      <link>http://plaia.ai/research/long-term-inf/</link>
-      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://plaia.ai/research/long-term-inf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nocturne: a scalable driving benchmark for bringing multi-agent learning one step closer to the real world</title>
-      <link>http://plaia.ai/research/nocturne/</link>
-      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://plaia.ai/research/nocturne/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Off-Team Learning</title>
-      <link>http://plaia.ai/research/off-team/</link>
-      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://plaia.ai/research/off-team/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Proximal Learning with Opponent-Learning Awareness</title>
-      <link>http://plaia.ai/research/pola/</link>
-      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://plaia.ai/research/pola/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self-Explaining Deviations for Coordination</title>
-      <link>http://plaia.ai/research/sed/</link>
-      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://plaia.ai/research/sed/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model-Free Opponent Shaping</title>
-      <link>http://plaia.ai/research/mf-opp-shape/</link>
-      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://plaia.ai/research/mf-opp-shape/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Communicating via Markov Decision Processes</title>
-      <link>http://plaia.ai/research/meme/</link>
-      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://plaia.ai/research/meme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generalized Beliefs for Cooperative AI</title>
-      <link>http://plaia.ai/research/gen-belief/</link>
-      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://plaia.ai/research/gen-belief/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mirror Learning: A Unifying Framework of Policy Optimisation</title>
-      <link>http://plaia.ai/research/mirror-learn/</link>
-      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://plaia.ai/research/mirror-learn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>COLA: Consistent Learning with Opponent-Learning Awareness</title>
-      <link>http://plaia.ai/research/cola/</link>
-      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://plaia.ai/research/cola/</guid>
+      <guid>http://plaia.ai/research/explan/</guid>
       <description></description>
     </item>
     
