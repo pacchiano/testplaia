@@ -6,7 +6,25 @@
     <description>Recent content in Research on PLAIA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://plaia.ai/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://plaia.ai/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data-Driven Regret Balancing for Online Model Selection in Bandits</title>
+      <link>http://plaia.ai/research/datadrivenbalancing/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://plaia.ai/research/datadrivenbalancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextual Bandits with Stage-wise Constraints</title>
+      <link>http://plaia.ai/research/contextualbanditsconstraints/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://plaia.ai/research/contextualbanditsconstraints/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>A Unified Model and Dimension for Interactive Estimation</title>
       <link>http://plaia.ai/research/dissimilarity/</link>

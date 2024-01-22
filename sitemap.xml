@@ -5,9 +5,15 @@
     <loc>http://plaia.ai/members/</loc>
   </url><url>
     <loc>http://plaia.ai/research/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://plaia.ai/join/</loc>
+  </url><url>
+    <loc>http://plaia.ai/research/datadrivenbalancing/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://plaia.ai/research/contextualbanditsconstraints/</loc>
+    <lastmod>2024-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://plaia.ai/research/dissimilarity/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
