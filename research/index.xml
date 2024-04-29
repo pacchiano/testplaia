@@ -6,7 +6,25 @@
     <description>Recent content in Research on PLAIA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://plaia.ai/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://plaia.ai/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Provable Interactive Learning with Hindsight Instruction Feedback</title>
+      <link>http://plaia.ai/research/loril/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://plaia.ai/research/loril/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple-policy Evaluation via Density Estimation</title>
+      <link>http://plaia.ai/research/casear/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://plaia.ai/research/casear/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Data-Driven Regret Balancing for Online Model Selection in Bandits</title>
       <link>http://plaia.ai/research/datadrivenbalancing/</link>
