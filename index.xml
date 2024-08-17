@@ -20,6 +20,33 @@ If you are interested in pursuing a PhD with us, please apply to the Boston Univ
     </item>
     
     <item>
+      <title>Learning Rate-Free Reinforcement Learning: A Case for Model Selection with Non-Stationary Objectives</title>
+      <link>http://plaia.ai/research/learningratefree/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://plaia.ai/research/learningratefree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Preference Optimization for Sample Efficient RLHF</title>
+      <link>http://plaia.ai/research/activepreferenceopt/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://plaia.ai/research/activepreferenceopt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Theoretical Framework for Partially-Observed Reward States in RLHF</title>
+      <link>http://plaia.ai/research/porrl/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://plaia.ai/research/porrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Provable Interactive Learning with Hindsight Instruction Feedback</title>
       <link>http://plaia.ai/research/loril/</link>
       <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
@@ -79,6 +106,15 @@ If you are interested in pursuing a PhD with us, please apply to the Boston Univ
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>http://plaia.ai/research/explan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervised Pretraining Can Learn In-Context Reinforcement Learning</title>
+      <link>http://plaia.ai/research/dpt/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://plaia.ai/research/dpt/</guid>
       <description></description>
     </item>
     

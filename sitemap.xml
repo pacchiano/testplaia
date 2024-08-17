@@ -5,9 +5,18 @@
     <loc>http://plaia.ai/members/</loc>
   </url><url>
     <loc>http://plaia.ai/research/</loc>
-    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://plaia.ai/join/</loc>
+  </url><url>
+    <loc>http://plaia.ai/research/learningratefree/</loc>
+    <lastmod>2024-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://plaia.ai/research/activepreferenceopt/</loc>
+    <lastmod>2024-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://plaia.ai/research/porrl/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://plaia.ai/research/loril/</loc>
     <lastmod>2024-04-14T00:00:00+00:00</lastmod>
@@ -29,6 +38,9 @@
   </url><url>
     <loc>http://plaia.ai/research/explan/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://plaia.ai/research/dpt/</loc>
+    <lastmod>2023-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://plaia.ai/</loc>
     <lastmod>2022-06-17T16:43:09+01:00</lastmod>
