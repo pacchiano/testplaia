@@ -9,7 +9,10 @@
   </url><url>
     <loc>http://plaia.ai/join/</loc>
   </url><url>
-    <loc>http://plaia.ai/research/secondorder-copy/</loc>
+    <loc>http://plaia.ai/research/adaptiveexplorationmultirew/</loc>
+    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://plaia.ai/research/pureexplorationfeedback/</loc>
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://plaia.ai/research/secondorder/</loc>

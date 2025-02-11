@@ -20,11 +20,20 @@ If you are interested in pursuing a PhD with us, please apply to the Boston Univ
     </item>
     
     <item>
-      <title>Second Order Bounds for Contextual Bandits with Function Approximation</title>
-      <link>http://plaia.ai/research/secondorder-copy/</link>
+      <title>Adaptive Exploration for Multi-Reward Multi-Policy Evaluation</title>
+      <link>http://plaia.ai/research/adaptiveexplorationmultirew/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://plaia.ai/research/secondorder-copy/</guid>
+      <guid>http://plaia.ai/research/adaptiveexplorationmultirew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pure Exploration with Feedback Graphs</title>
+      <link>http://plaia.ai/research/pureexplorationfeedback/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://plaia.ai/research/pureexplorationfeedback/</guid>
       <description></description>
     </item>
     
