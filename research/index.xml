@@ -6,13 +6,13 @@
     <description>Recent content in Research on PLAIA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://plaia.ai/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://plaia.ai/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Second Order Bounds for Contextual Bandits with Function Approximation</title>
-      <link>http://plaia.ai/research/secondorder/</link>
-      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <title>Pure Exploration with Feedback Graphs</title>
+      <link>http://plaia.ai/research/pureexplorationfeedback/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://plaia.ai/research/secondorder/</guid>
+      <guid>http://plaia.ai/research/pureexplorationfeedback/</guid>
       <description></description>
     </item>
     
