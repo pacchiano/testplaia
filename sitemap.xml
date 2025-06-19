@@ -5,15 +5,24 @@
     <loc>http://plaia.ai/members/</loc>
   </url><url>
     <loc>http://plaia.ai/research/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://plaia.ai/join/</loc>
   </url><url>
-    <loc>http://plaia.ai/research/secondorder/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+    <loc>http://plaia.ai/research/casear/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://plaia.ai/research/bandithardness/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://plaia.ai/research/adaptiveexplorationmultirew/</loc>
-    <lastmod>2025-02-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://plaia.ai/research/activepreferenceopt/</loc>
+    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://plaia.ai/research/secondorder/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://plaia.ai/research/pureexplorationfeedback/</loc>
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
@@ -21,17 +30,11 @@
     <loc>http://plaia.ai/research/learningratefree/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://plaia.ai/research/activepreferenceopt/</loc>
-    <lastmod>2024-06-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://plaia.ai/research/porrl/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://plaia.ai/research/loril/</loc>
     <lastmod>2024-04-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://plaia.ai/research/casear/</loc>
-    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://plaia.ai/research/datadrivenbalancing/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
