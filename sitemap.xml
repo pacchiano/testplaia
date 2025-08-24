@@ -5,9 +5,15 @@
     <loc>http://plaia.ai/members/</loc>
   </url><url>
     <loc>http://plaia.ai/research/</loc>
-    <lastmod>2025-06-17T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://plaia.ai/join/</loc>
+  </url><url>
+    <loc>http://plaia.ai/research/llmpersonalization/</loc>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://plaia.ai/research/contextualbanditsconstraints/</loc>
+    <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://plaia.ai/research/icpeexplore/</loc>
     <lastmod>2025-06-17T00:00:00+00:00</lastmod>
@@ -45,9 +51,6 @@
     <loc>http://plaia.ai/research/datadrivenbalancing/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://plaia.ai/research/contextualbanditsconstraints/</loc>
-    <lastmod>2024-01-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://plaia.ai/research/dissimilarity/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -72,6 +75,8 @@
     <loc>http://plaia.ai/members/arjun/</loc>
   </url><url>
     <loc>http://plaia.ai/members/mingyu-chen/</loc>
+  </url><url>
+    <loc>http://plaia.ai/members/mridul/</loc>
   </url><url>
     <loc>http://plaia.ai/members/selena/</loc>
   </url><url>
