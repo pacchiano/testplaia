@@ -5,12 +5,21 @@
     <loc>http://plaia.ai/members/</loc>
   </url><url>
     <loc>http://plaia.ai/research/</loc>
-    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://plaia.ai/join/</loc>
   </url><url>
     <loc>http://plaia.ai/research/diversityllm/</loc>
-    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://plaia.ai/research/icpeexplore/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://plaia.ai/research/meetmearm/</loc>
+    <lastmod>2026-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://plaia.ai/research/goodbadsampled/</loc>
+    <lastmod>2026-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://plaia.ai/research/editsllm/</loc>
     <lastmod>2025-09-19T00:00:00+00:00</lastmod>
@@ -21,17 +30,11 @@
     <loc>http://plaia.ai/research/contextualbanditsconstraints/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://plaia.ai/research/icpeexplore/</loc>
-    <lastmod>2025-06-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://plaia.ai/research/casear/</loc>
     <lastmod>2025-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://plaia.ai/research/bandithardness/</loc>
     <lastmod>2025-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://plaia.ai/research/meetmearm/</loc>
-    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://plaia.ai/research/adaptiveexplorationmultirew/</loc>
     <lastmod>2025-06-09T00:00:00+00:00</lastmod>

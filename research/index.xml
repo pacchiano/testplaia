@@ -6,13 +6,40 @@
     <description>Recent content in Research on PLAIA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://plaia.ai/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://plaia.ai/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post-training Large Language Models for Diverse High-Quality Responses</title>
       <link>http://plaia.ai/research/diversityllm/</link>
-      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
       
       <guid>http://plaia.ai/research/diversityllm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-Context Learning Approach for Pure Exploration</title>
+      <link>http://plaia.ai/research/icpeexplore/</link>
+      <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://plaia.ai/research/icpeexplore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meet Me at the Arm: The Cooperative Multi-Armed Bandits Problem with Shareable Arms</title>
+      <link>http://plaia.ai/research/meetmearm/</link>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://plaia.ai/research/meetmearm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Good, the Bad, and the Sampled: a No-Regret Approach to Safe Online Classification</title>
+      <link>http://plaia.ai/research/goodbadsampled/</link>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://plaia.ai/research/goodbadsampled/</guid>
       <description></description>
     </item>
     
@@ -44,15 +71,6 @@
     </item>
     
     <item>
-      <title>Learning to Explore: An In-Context Learning Approach for Pure Exploration</title>
-      <link>http://plaia.ai/research/icpeexplore/</link>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://plaia.ai/research/icpeexplore/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Multiple-policy Evaluation via Density Estimation</title>
       <link>http://plaia.ai/research/casear/</link>
       <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
@@ -67,15 +85,6 @@
       <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
       
       <guid>http://plaia.ai/research/bandithardness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meet Me at the Arm: The Cooperative Multi-Armed Bandits Problem with Shareable Arms</title>
-      <link>http://plaia.ai/research/meetmearm/</link>
-      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://plaia.ai/research/meetmearm/</guid>
       <description></description>
     </item>
     
